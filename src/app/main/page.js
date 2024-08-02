@@ -1,5 +1,3 @@
 export default function main() {
-    return (
-        <h1>Hello people</h1>
-    )
+  return <h1>Hello people</h1>;
 }
